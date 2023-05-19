@@ -1,0 +1,16 @@
+.page{
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(50deg,red,yellow);
+}
+.div1{
+    color: white;
+    background-color: blueviolet;
+    border-radius: 20px;
+}
+.high{
+    color: red;
+    letter-spacing: 0.2rem;
+
+
+}
